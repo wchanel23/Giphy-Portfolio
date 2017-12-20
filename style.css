@@ -1,0 +1,38 @@
+h1 {
+   font-family: "Roboto Condensed", sans-serif;
+   color: white;
+   font-size: 30px;
+   }
+
+body {
+    background-image: url("rose.jpg");
+    background-size: 1500px;
+   }
+
+button {
+	background-color: pink;
+	color: white;
+	border-radius: 12px;
+	font-size: 20px
+	}
+
+p {
+	font-size: 20px;
+	color:white;
+	}
+
+#buttons-form {
+	font-size: 20px;
+	color: white;
+	}
+
+#items {
+	text-align: center;
+}
+
+img {
+	width: 80%x;
+	height: 80%;
+}
+
+	
